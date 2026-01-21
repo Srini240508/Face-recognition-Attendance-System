@@ -1,0 +1,6 @@
+pip install opencv-python
+pip install opencv-contrib-python
+pip install tqdm
+pip install imutils
+pip install pandas
+pip install pillow
