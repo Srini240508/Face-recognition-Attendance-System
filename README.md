@@ -136,6 +136,6 @@ http://localhost:8501
 ---
 
 ## **🙌 Contributors**
-- **Chaitanya Malani** (Lead Developer)
+- **Srinivas R Bharadwaj** (Lead Developer)
 
 For any issues, please raise a GitHub issue or contact me.
